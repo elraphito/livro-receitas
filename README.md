@@ -2,4 +2,6 @@
 
 Olá! Bem-vindo ao meu livro de receitas :wave:
 
-- Strogonoff de frango
+1. Strogonoff de frango
+2. Pavê
+
